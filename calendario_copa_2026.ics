@@ -1,0 +1,1880 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//n8n//Copa2026//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Copa do Mundo FIFA 2026
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+UID:grupos_A_mex_rsa_20260611@fifa2026
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:México vs África do Sul
+DESCRIPTION:🏆 Fase de Grupos - Grupo A
+⚽ México vs África do Sul
+📍 Estádio Azteca, Cidade do México - México
+⏰ 2026-06-11 16:00:00 (BRT)
+
+Local: Estádio Azteca, Cidade do México - México
+Fase: Fase de Grupos - Grupo A
+Confronto: México vs África do Sul
+Horário: 2026-06-11 16:00:00 (BRT)
+LOCATION:Estádio Azteca, Cidade do México - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_A_kor_cze_20260611@fifa2026
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:Coreia do Sul vs Chéquia
+DESCRIPTION:🏆 Fase de Grupos - Grupo A
+⚽ Coreia do Sul vs Chéquia
+📍 Estádio Akron, Guadalajara - México
+⏰ 2026-06-11 23:00:00 (BRT)
+
+Local: Estádio Akron, Guadalajara - México
+Fase: Fase de Grupos - Grupo A
+Confronto: Coreia do Sul vs Chéquia
+Horário: 2026-06-11 23:00:00 (BRT)
+LOCATION:Estádio Akron, Guadalajara - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_B_can_bih_20260612@fifa2026
+DTSTART:20260612T200000Z
+DTEND:20260612T220000Z
+SUMMARY:Canadá vs Bósnia e Herzegovina
+DESCRIPTION:🏆 Fase de Grupos - Grupo B
+⚽ Canadá vs Bósnia e Herzegovina
+📍 BMO Field, Toronto - Canadá
+⏰ 2026-06-12 17:00:00 (BRT)
+
+Local: BMO Field, Toronto - Canadá
+Fase: Fase de Grupos - Grupo B
+Confronto: Canadá vs Bósnia e Herzegovina
+Horário: 2026-06-12 17:00:00 (BRT)
+LOCATION:BMO Field, Toronto - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_D_usa_par_20260612@fifa2026
+DTSTART:20260613T020000Z
+DTEND:20260613T040000Z
+SUMMARY:Estados Unidos vs Paraguai
+DESCRIPTION:🏆 Fase de Grupos - Grupo D
+⚽ Estados Unidos vs Paraguai
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-06-12 23:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Fase de Grupos - Grupo D
+Confronto: Estados Unidos vs Paraguai
+Horário: 2026-06-12 23:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_D_aus_tur_20260613@fifa2026
+DTSTART:20260613T050000Z
+DTEND:20260613T070000Z
+SUMMARY:Austrália vs Turquia
+DESCRIPTION:🏆 Fase de Grupos - Grupo D
+⚽ Austrália vs Turquia
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-06-13 02:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Fase de Grupos - Grupo D
+Confronto: Austrália vs Turquia
+Horário: 2026-06-13 02:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_B_qat_sui_20260613@fifa2026
+DTSTART:20260613T170000Z
+DTEND:20260613T190000Z
+SUMMARY:Catar vs Suíça
+DESCRIPTION:🏆 Fase de Grupos - Grupo B
+⚽ Catar vs Suíça
+📍 Levi's Stadium, Santa Clara - EUA
+⏰ 2026-06-13 14:00:00 (BRT)
+
+Local: Levi's Stadium, Santa Clara - EUA
+Fase: Fase de Grupos - Grupo B
+Confronto: Catar vs Suíça
+Horário: 2026-06-13 14:00:00 (BRT)
+LOCATION:Levi's Stadium, Santa Clara - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_C_bra_mar_20260613@fifa2026
+DTSTART:20260613T230000Z
+DTEND:20260614T010000Z
+SUMMARY:Brasil vs Marrocos
+DESCRIPTION:🏆 Fase de Grupos - Grupo C
+⚽ Brasil vs Marrocos
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-06-13 20:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Fase de Grupos - Grupo C
+Confronto: Brasil vs Marrocos
+Horário: 2026-06-13 20:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_C_hai_sco_20260613@fifa2026
+DTSTART:20260614T020000Z
+DTEND:20260614T040000Z
+SUMMARY:Haiti vs Escócia
+DESCRIPTION:🏆 Fase de Grupos - Grupo C
+⚽ Haiti vs Escócia
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-06-13 23:00:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Fase de Grupos - Grupo C
+Confronto: Haiti vs Escócia
+Horário: 2026-06-13 23:00:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_E_ger_cur_20260614@fifa2026
+DTSTART:20260614T180000Z
+DTEND:20260614T200000Z
+SUMMARY:Alemanha vs Curaçao
+DESCRIPTION:🏆 Fase de Grupos - Grupo E
+⚽ Alemanha vs Curaçao
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-06-14 15:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Fase de Grupos - Grupo E
+Confronto: Alemanha vs Curaçao
+Horário: 2026-06-14 15:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_F_ned_jpn_20260614@fifa2026
+DTSTART:20260614T210000Z
+DTEND:20260614T230000Z
+SUMMARY:Países Baixos vs Japão
+DESCRIPTION:🏆 Fase de Grupos - Grupo F
+⚽ Países Baixos vs Japão
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-06-14 18:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Fase de Grupos - Grupo F
+Confronto: Países Baixos vs Japão
+Horário: 2026-06-14 18:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_E_civ_ecu_20260614@fifa2026
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Costa do Marfim vs Equador
+DESCRIPTION:🏆 Fase de Grupos - Grupo E
+⚽ Costa do Marfim vs Equador
+📍 Lincoln Financial Field, Filadélfia - EUA
+⏰ 2026-06-14 21:00:00 (BRT)
+
+Local: Lincoln Financial Field, Filadélfia - EUA
+Fase: Fase de Grupos - Grupo E
+Confronto: Costa do Marfim vs Equador
+Horário: 2026-06-14 21:00:00 (BRT)
+LOCATION:Lincoln Financial Field, Filadélfia - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_F_swe_tun_20260615@fifa2026
+DTSTART:20260615T030000Z
+DTEND:20260615T050000Z
+SUMMARY:Suécia vs Tunísia
+DESCRIPTION:🏆 Fase de Grupos - Grupo F
+⚽ Suécia vs Tunísia
+📍 Estádio BBVA, Monterrey - México
+⏰ 2026-06-15 00:00:00 (BRT)
+
+Local: Estádio BBVA, Monterrey - México
+Fase: Fase de Grupos - Grupo F
+Confronto: Suécia vs Tunísia
+Horário: 2026-06-15 00:00:00 (BRT)
+LOCATION:Estádio BBVA, Monterrey - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_H_esp_cpv_20260615@fifa2026
+DTSTART:20260615T180000Z
+DTEND:20260615T200000Z
+SUMMARY:Espanha vs Cabo Verde
+DESCRIPTION:🏆 Fase de Grupos - Grupo H
+⚽ Espanha vs Cabo Verde
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-06-15 15:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Fase de Grupos - Grupo H
+Confronto: Espanha vs Cabo Verde
+Horário: 2026-06-15 15:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_G_bel_egy_20260615@fifa2026
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:Bélgica vs Egito
+DESCRIPTION:🏆 Fase de Grupos - Grupo G
+⚽ Bélgica vs Egito
+📍 Lumen Field, Seattle - EUA
+⏰ 2026-06-15 16:00:00 (BRT)
+
+Local: Lumen Field, Seattle - EUA
+Fase: Fase de Grupos - Grupo G
+Confronto: Bélgica vs Egito
+Horário: 2026-06-15 16:00:00 (BRT)
+LOCATION:Lumen Field, Seattle - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_H_ksa_uru_20260615@fifa2026
+DTSTART:20260616T000000Z
+DTEND:20260616T020000Z
+SUMMARY:Arábia Saudita vs Uruguai
+DESCRIPTION:🏆 Fase de Grupos - Grupo H
+⚽ Arábia Saudita vs Uruguai
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-06-15 21:00:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Fase de Grupos - Grupo H
+Confronto: Arábia Saudita vs Uruguai
+Horário: 2026-06-15 21:00:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_G_irn_nzl_20260616@fifa2026
+DTSTART:20260616T030000Z
+DTEND:20260616T050000Z
+SUMMARY:Irã vs Nova Zelândia
+DESCRIPTION:🏆 Fase de Grupos - Grupo G
+⚽ Irã vs Nova Zelândia
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-06-16 00:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Fase de Grupos - Grupo G
+Confronto: Irã vs Nova Zelândia
+Horário: 2026-06-16 00:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_I_fra_sen_20260616@fifa2026
+DTSTART:20260616T200000Z
+DTEND:20260616T220000Z
+SUMMARY:França vs Senegal
+DESCRIPTION:🏆 Fase de Grupos - Grupo I
+⚽ França vs Senegal
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-06-16 17:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Fase de Grupos - Grupo I
+Confronto: França vs Senegal
+Horário: 2026-06-16 17:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_I_irq_nor_20260616@fifa2026
+DTSTART:20260616T230000Z
+DTEND:20260617T010000Z
+SUMMARY:Iraque vs Noruega
+DESCRIPTION:🏆 Fase de Grupos - Grupo I
+⚽ Iraque vs Noruega
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-06-16 20:00:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Fase de Grupos - Grupo I
+Confronto: Iraque vs Noruega
+Horário: 2026-06-16 20:00:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_J_arg_alg_20260616@fifa2026
+DTSTART:20260617T020000Z
+DTEND:20260617T040000Z
+SUMMARY:Argentina vs Argélia
+DESCRIPTION:🏆 Fase de Grupos - Grupo J
+⚽ Argentina vs Argélia
+📍 Arrowhead Stadium, Kansas City - EUA
+⏰ 2026-06-16 23:00:00 (BRT)
+
+Local: Arrowhead Stadium, Kansas City - EUA
+Fase: Fase de Grupos - Grupo J
+Confronto: Argentina vs Argélia
+Horário: 2026-06-16 23:00:00 (BRT)
+LOCATION:Arrowhead Stadium, Kansas City - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_J_aut_jor_20260617@fifa2026
+DTSTART:20260617T050000Z
+DTEND:20260617T070000Z
+SUMMARY:Áustria vs Jordânia
+DESCRIPTION:🏆 Fase de Grupos - Grupo J
+⚽ Áustria vs Jordânia
+📍 Levi's Stadium, Santa Clara - EUA
+⏰ 2026-06-17 02:00:00 (BRT)
+
+Local: Levi's Stadium, Santa Clara - EUA
+Fase: Fase de Grupos - Grupo J
+Confronto: Áustria vs Jordânia
+Horário: 2026-06-17 02:00:00 (BRT)
+LOCATION:Levi's Stadium, Santa Clara - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_K_por_cod_20260617@fifa2026
+DTSTART:20260617T180000Z
+DTEND:20260617T200000Z
+SUMMARY:Portugal vs RD Congo
+DESCRIPTION:🏆 Fase de Grupos - Grupo K
+⚽ Portugal vs RD Congo
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-06-17 15:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Fase de Grupos - Grupo K
+Confronto: Portugal vs RD Congo
+Horário: 2026-06-17 15:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_L_eng_cro_20260617@fifa2026
+DTSTART:20260617T210000Z
+DTEND:20260617T230000Z
+SUMMARY:Inglaterra vs Croácia
+DESCRIPTION:🏆 Fase de Grupos - Grupo L
+⚽ Inglaterra vs Croácia
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-06-17 18:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Fase de Grupos - Grupo L
+Confronto: Inglaterra vs Croácia
+Horário: 2026-06-17 18:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_L_gha_pan_20260617@fifa2026
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:Gana vs Panamá
+DESCRIPTION:🏆 Fase de Grupos - Grupo L
+⚽ Gana vs Panamá
+📍 BMO Field, Toronto - Canadá
+⏰ 2026-06-17 21:00:00 (BRT)
+
+Local: BMO Field, Toronto - Canadá
+Fase: Fase de Grupos - Grupo L
+Confronto: Gana vs Panamá
+Horário: 2026-06-17 21:00:00 (BRT)
+LOCATION:BMO Field, Toronto - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_K_uzb_col_20260618@fifa2026
+DTSTART:20260618T030000Z
+DTEND:20260618T050000Z
+SUMMARY:Uzbequistão vs Colômbia
+DESCRIPTION:🏆 Fase de Grupos - Grupo K
+⚽ Uzbequistão vs Colômbia
+📍 Estádio Azteca, Cidade do México - México
+⏰ 2026-06-18 00:00:00 (BRT)
+
+Local: Estádio Azteca, Cidade do México - México
+Fase: Fase de Grupos - Grupo K
+Confronto: Uzbequistão vs Colômbia
+Horário: 2026-06-18 00:00:00 (BRT)
+LOCATION:Estádio Azteca, Cidade do México - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_A_cze_rsa_20260618@fifa2026
+DTSTART:20260618T170000Z
+DTEND:20260618T190000Z
+SUMMARY:Chéquia vs África do Sul
+DESCRIPTION:🏆 Fase de Grupos - Grupo A
+⚽ Chéquia vs África do Sul
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-06-18 14:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Fase de Grupos - Grupo A
+Confronto: Chéquia vs África do Sul
+Horário: 2026-06-18 14:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_B_sui_bih_20260618@fifa2026
+DTSTART:20260618T200000Z
+DTEND:20260618T220000Z
+SUMMARY:Suíça vs Bósnia e Herzegovina
+DESCRIPTION:🏆 Fase de Grupos - Grupo B
+⚽ Suíça vs Bósnia e Herzegovina
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-06-18 17:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Fase de Grupos - Grupo B
+Confronto: Suíça vs Bósnia e Herzegovina
+Horário: 2026-06-18 17:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_B_can_qat_20260618@fifa2026
+DTSTART:20260618T230000Z
+DTEND:20260619T010000Z
+SUMMARY:Canadá vs Catar
+DESCRIPTION:🏆 Fase de Grupos - Grupo B
+⚽ Canadá vs Catar
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-06-18 20:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Fase de Grupos - Grupo B
+Confronto: Canadá vs Catar
+Horário: 2026-06-18 20:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_A_mex_kor_20260618@fifa2026
+DTSTART:20260619T020000Z
+DTEND:20260619T040000Z
+SUMMARY:México vs Coreia do Sul
+DESCRIPTION:🏆 Fase de Grupos - Grupo A
+⚽ México vs Coreia do Sul
+📍 Estádio Akron, Guadalajara - México
+⏰ 2026-06-18 23:00:00 (BRT)
+
+Local: Estádio Akron, Guadalajara - México
+Fase: Fase de Grupos - Grupo A
+Confronto: México vs Coreia do Sul
+Horário: 2026-06-18 23:00:00 (BRT)
+LOCATION:Estádio Akron, Guadalajara - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_D_usa_aus_20260619@fifa2026
+DTSTART:20260619T200000Z
+DTEND:20260619T220000Z
+SUMMARY:Estados Unidos vs Austrália
+DESCRIPTION:🏆 Fase de Grupos - Grupo D
+⚽ Estados Unidos vs Austrália
+📍 Lumen Field, Seattle - EUA
+⏰ 2026-06-19 17:00:00 (BRT)
+
+Local: Lumen Field, Seattle - EUA
+Fase: Fase de Grupos - Grupo D
+Confronto: Estados Unidos vs Austrália
+Horário: 2026-06-19 17:00:00 (BRT)
+LOCATION:Lumen Field, Seattle - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_C_sco_mar_20260619@fifa2026
+DTSTART:20260619T230000Z
+DTEND:20260620T010000Z
+SUMMARY:Escócia vs Marrocos
+DESCRIPTION:🏆 Fase de Grupos - Grupo C
+⚽ Escócia vs Marrocos
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-06-19 20:00:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Fase de Grupos - Grupo C
+Confronto: Escócia vs Marrocos
+Horário: 2026-06-19 20:00:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_C_bra_hai_20260619@fifa2026
+DTSTART:20260620T013000Z
+DTEND:20260620T033000Z
+SUMMARY:Brasil vs Haiti
+DESCRIPTION:🏆 Fase de Grupos - Grupo C
+⚽ Brasil vs Haiti
+📍 Lincoln Financial Field, Filadélfia - EUA
+⏰ 2026-06-19 22:30:00 (BRT)
+
+Local: Lincoln Financial Field, Filadélfia - EUA
+Fase: Fase de Grupos - Grupo C
+Confronto: Brasil vs Haiti
+Horário: 2026-06-19 22:30:00 (BRT)
+LOCATION:Lincoln Financial Field, Filadélfia - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_D_tur_par_20260620@fifa2026
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:Turquia vs Paraguai
+DESCRIPTION:🏆 Fase de Grupos - Grupo D
+⚽ Turquia vs Paraguai
+📍 Levi's Stadium, Santa Clara - EUA
+⏰ 2026-06-20 00:00:00 (BRT)
+
+Local: Levi's Stadium, Santa Clara - EUA
+Fase: Fase de Grupos - Grupo D
+Confronto: Turquia vs Paraguai
+Horário: 2026-06-20 00:00:00 (BRT)
+LOCATION:Levi's Stadium, Santa Clara - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_F_tun_jpn_20260620@fifa2026
+DTSTART:20260620T050000Z
+DTEND:20260620T070000Z
+SUMMARY:Tunísia vs Japão
+DESCRIPTION:🏆 Fase de Grupos - Grupo F
+⚽ Tunísia vs Japão
+📍 Estádio BBVA, Monterrey - México
+⏰ 2026-06-20 02:00:00 (BRT)
+
+Local: Estádio BBVA, Monterrey - México
+Fase: Fase de Grupos - Grupo F
+Confronto: Tunísia vs Japão
+Horário: 2026-06-20 02:00:00 (BRT)
+LOCATION:Estádio BBVA, Monterrey - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_F_ned_swe_20260620@fifa2026
+DTSTART:20260620T180000Z
+DTEND:20260620T200000Z
+SUMMARY:Países Baixos vs Suécia
+DESCRIPTION:🏆 Fase de Grupos - Grupo F
+⚽ Países Baixos vs Suécia
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-06-20 15:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Fase de Grupos - Grupo F
+Confronto: Países Baixos vs Suécia
+Horário: 2026-06-20 15:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_E_ger_civ_20260620@fifa2026
+DTSTART:20260620T210000Z
+DTEND:20260620T230000Z
+SUMMARY:Alemanha vs Costa do Marfim
+DESCRIPTION:🏆 Fase de Grupos - Grupo E
+⚽ Alemanha vs Costa do Marfim
+📍 BMO Field, Toronto - Canadá
+⏰ 2026-06-20 18:00:00 (BRT)
+
+Local: BMO Field, Toronto - Canadá
+Fase: Fase de Grupos - Grupo E
+Confronto: Alemanha vs Costa do Marfim
+Horário: 2026-06-20 18:00:00 (BRT)
+LOCATION:BMO Field, Toronto - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_E_ecu_cur_20260620@fifa2026
+DTSTART:20260621T010000Z
+DTEND:20260621T030000Z
+SUMMARY:Equador vs Curaçao
+DESCRIPTION:🏆 Fase de Grupos - Grupo E
+⚽ Equador vs Curaçao
+📍 Arrowhead Stadium, Kansas City - EUA
+⏰ 2026-06-20 22:00:00 (BRT)
+
+Local: Arrowhead Stadium, Kansas City - EUA
+Fase: Fase de Grupos - Grupo E
+Confronto: Equador vs Curaçao
+Horário: 2026-06-20 22:00:00 (BRT)
+LOCATION:Arrowhead Stadium, Kansas City - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_H_esp_ksa_20260621@fifa2026
+DTSTART:20260621T180000Z
+DTEND:20260621T200000Z
+SUMMARY:Espanha vs Arábia Saudita
+DESCRIPTION:🏆 Fase de Grupos - Grupo H
+⚽ Espanha vs Arábia Saudita
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-06-21 15:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Fase de Grupos - Grupo H
+Confronto: Espanha vs Arábia Saudita
+Horário: 2026-06-21 15:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_G_bel_irn_20260621@fifa2026
+DTSTART:20260621T210000Z
+DTEND:20260621T230000Z
+SUMMARY:Bélgica vs Irã
+DESCRIPTION:🏆 Fase de Grupos - Grupo G
+⚽ Bélgica vs Irã
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-06-21 18:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Fase de Grupos - Grupo G
+Confronto: Bélgica vs Irã
+Horário: 2026-06-21 18:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_H_uru_cpv_20260621@fifa2026
+DTSTART:20260622T000000Z
+DTEND:20260622T020000Z
+SUMMARY:Uruguai vs Cabo Verde
+DESCRIPTION:🏆 Fase de Grupos - Grupo H
+⚽ Uruguai vs Cabo Verde
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-06-21 21:00:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Fase de Grupos - Grupo H
+Confronto: Uruguai vs Cabo Verde
+Horário: 2026-06-21 21:00:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_G_nzl_egy_20260622@fifa2026
+DTSTART:20260622T030000Z
+DTEND:20260622T050000Z
+SUMMARY:Nova Zelândia vs Egito
+DESCRIPTION:🏆 Fase de Grupos - Grupo G
+⚽ Nova Zelândia vs Egito
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-06-22 00:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Fase de Grupos - Grupo G
+Confronto: Nova Zelândia vs Egito
+Horário: 2026-06-22 00:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_J_arg_aut_20260622@fifa2026
+DTSTART:20260622T180000Z
+DTEND:20260622T200000Z
+SUMMARY:Argentina vs Áustria
+DESCRIPTION:🏆 Fase de Grupos - Grupo J
+⚽ Argentina vs Áustria
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-06-22 15:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Fase de Grupos - Grupo J
+Confronto: Argentina vs Áustria
+Horário: 2026-06-22 15:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_I_fra_irq_20260622@fifa2026
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:França vs Iraque
+DESCRIPTION:🏆 Fase de Grupos - Grupo I
+⚽ França vs Iraque
+📍 Lincoln Financial Field, Filadélfia - EUA
+⏰ 2026-06-22 21:00:00 (BRT)
+
+Local: Lincoln Financial Field, Filadélfia - EUA
+Fase: Fase de Grupos - Grupo I
+Confronto: França vs Iraque
+Horário: 2026-06-22 21:00:00 (BRT)
+LOCATION:Lincoln Financial Field, Filadélfia - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_I_nor_sen_20260622@fifa2026
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:Noruega vs Senegal
+DESCRIPTION:🏆 Fase de Grupos - Grupo I
+⚽ Noruega vs Senegal
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-06-23 00:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Fase de Grupos - Grupo I
+Confronto: Noruega vs Senegal
+Horário: 2026-06-23 00:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_J_jor_alg_20260623@fifa2026
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:Jordânia vs Argélia
+DESCRIPTION:🏆 Fase de Grupos - Grupo J
+⚽ Jordânia vs Argélia
+📍 Levi's Stadium, Santa Clara - EUA
+⏰ 2026-06-23 00:00:00 (BRT)
+
+Local: Levi's Stadium, Santa Clara - EUA
+Fase: Fase de Grupos - Grupo J
+Confronto: Jordânia vs Argélia
+Horário: 2026-06-23 00:00:00 (BRT)
+LOCATION:Levi's Stadium, Santa Clara - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_K_por_uzb_20260623@fifa2026
+DTSTART:20260623T180000Z
+DTEND:20260623T200000Z
+SUMMARY:Portugal vs Uzbequistão
+DESCRIPTION:🏆 Fase de Grupos - Grupo K
+⚽ Portugal vs Uzbequistão
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-06-23 15:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Fase de Grupos - Grupo K
+Confronto: Portugal vs Uzbequistão
+Horário: 2026-06-23 15:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_L_eng_gha_20260623@fifa2026
+DTSTART:20260623T210000Z
+DTEND:20260623T230000Z
+SUMMARY:Inglaterra vs Gana
+DESCRIPTION:🏆 Fase de Grupos - Grupo L
+⚽ Inglaterra vs Gana
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-06-23 18:00:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Fase de Grupos - Grupo L
+Confronto: Inglaterra vs Gana
+Horário: 2026-06-23 18:00:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_L_pan_cro_20260623@fifa2026
+DTSTART:20260624T000000Z
+DTEND:20260624T020000Z
+SUMMARY:Panamá vs Croácia
+DESCRIPTION:🏆 Fase de Grupos - Grupo L
+⚽ Panamá vs Croácia
+📍 BMO Field, Toronto - Canadá
+⏰ 2026-06-23 21:00:00 (BRT)
+
+Local: BMO Field, Toronto - Canadá
+Fase: Fase de Grupos - Grupo L
+Confronto: Panamá vs Croácia
+Horário: 2026-06-23 21:00:00 (BRT)
+LOCATION:BMO Field, Toronto - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_K_col_cod_20260624@fifa2026
+DTSTART:20260624T030000Z
+DTEND:20260624T050000Z
+SUMMARY:Colômbia vs RD Congo
+DESCRIPTION:🏆 Fase de Grupos - Grupo K
+⚽ Colômbia vs RD Congo
+📍 Estádio Akron, Guadalajara - México
+⏰ 2026-06-24 00:00:00 (BRT)
+
+Local: Estádio Akron, Guadalajara - México
+Fase: Fase de Grupos - Grupo K
+Confronto: Colômbia vs RD Congo
+Horário: 2026-06-24 00:00:00 (BRT)
+LOCATION:Estádio Akron, Guadalajara - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_B_sui_can_20260624@fifa2026
+DTSTART:20260624T200000Z
+DTEND:20260624T220000Z
+SUMMARY:Suíça vs Canadá
+DESCRIPTION:🏆 Fase de Grupos - Grupo B
+⚽ Suíça vs Canadá
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-06-24 17:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Fase de Grupos - Grupo B
+Confronto: Suíça vs Canadá
+Horário: 2026-06-24 17:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_B_bih_qat_20260624@fifa2026
+DTSTART:20260624T200000Z
+DTEND:20260624T220000Z
+SUMMARY:Bósnia e Herzegovina vs Catar
+DESCRIPTION:🏆 Fase de Grupos - Grupo B
+⚽ Bósnia e Herzegovina vs Catar
+📍 Lumen Field, Seattle - EUA
+⏰ 2026-06-24 17:00:00 (BRT)
+
+Local: Lumen Field, Seattle - EUA
+Fase: Fase de Grupos - Grupo B
+Confronto: Bósnia e Herzegovina vs Catar
+Horário: 2026-06-24 17:00:00 (BRT)
+LOCATION:Lumen Field, Seattle - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_C_sco_bra_20260624@fifa2026
+DTSTART:20260624T230000Z
+DTEND:20260625T010000Z
+SUMMARY:Escócia vs Brasil
+DESCRIPTION:🏆 Fase de Grupos - Grupo C
+⚽ Escócia vs Brasil
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-06-24 20:00:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Fase de Grupos - Grupo C
+Confronto: Escócia vs Brasil
+Horário: 2026-06-24 20:00:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_C_mar_hai_20260624@fifa2026
+DTSTART:20260624T230000Z
+DTEND:20260625T010000Z
+SUMMARY:Marrocos vs Haiti
+DESCRIPTION:🏆 Fase de Grupos - Grupo C
+⚽ Marrocos vs Haiti
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-06-24 20:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Fase de Grupos - Grupo C
+Confronto: Marrocos vs Haiti
+Horário: 2026-06-24 20:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_A_cze_mex_20260624@fifa2026
+DTSTART:20260625T020000Z
+DTEND:20260625T040000Z
+SUMMARY:Chéquia vs México
+DESCRIPTION:🏆 Fase de Grupos - Grupo A
+⚽ Chéquia vs México
+📍 Estádio Azteca, Cidade do México - México
+⏰ 2026-06-24 23:00:00 (BRT)
+
+Local: Estádio Azteca, Cidade do México - México
+Fase: Fase de Grupos - Grupo A
+Confronto: Chéquia vs México
+Horário: 2026-06-24 23:00:00 (BRT)
+LOCATION:Estádio Azteca, Cidade do México - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_A_rsa_kor_20260624@fifa2026
+DTSTART:20260625T020000Z
+DTEND:20260625T040000Z
+SUMMARY:África do Sul vs Coreia do Sul
+DESCRIPTION:🏆 Fase de Grupos - Grupo A
+⚽ África do Sul vs Coreia do Sul
+📍 Estádio BBVA, Monterrey - México
+⏰ 2026-06-24 23:00:00 (BRT)
+
+Local: Estádio BBVA, Monterrey - México
+Fase: Fase de Grupos - Grupo A
+Confronto: África do Sul vs Coreia do Sul
+Horário: 2026-06-24 23:00:00 (BRT)
+LOCATION:Estádio BBVA, Monterrey - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_E_cur_civ_20260625@fifa2026
+DTSTART:20260625T210000Z
+DTEND:20260625T230000Z
+SUMMARY:Curaçao vs Costa do Marfim
+DESCRIPTION:🏆 Fase de Grupos - Grupo E
+⚽ Curaçao vs Costa do Marfim
+📍 Lincoln Financial Field, Filadélfia - EUA
+⏰ 2026-06-25 18:00:00 (BRT)
+
+Local: Lincoln Financial Field, Filadélfia - EUA
+Fase: Fase de Grupos - Grupo E
+Confronto: Curaçao vs Costa do Marfim
+Horário: 2026-06-25 18:00:00 (BRT)
+LOCATION:Lincoln Financial Field, Filadélfia - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_E_ecu_ger_20260625@fifa2026
+DTSTART:20260625T210000Z
+DTEND:20260625T230000Z
+SUMMARY:Equador vs Alemanha
+DESCRIPTION:🏆 Fase de Grupos - Grupo E
+⚽ Equador vs Alemanha
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-06-25 18:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Fase de Grupos - Grupo E
+Confronto: Equador vs Alemanha
+Horário: 2026-06-25 18:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_F_jpn_swe_20260625@fifa2026
+DTSTART:20260626T000000Z
+DTEND:20260626T020000Z
+SUMMARY:Japão vs Suécia
+DESCRIPTION:🏆 Fase de Grupos - Grupo F
+⚽ Japão vs Suécia
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-06-25 21:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Fase de Grupos - Grupo F
+Confronto: Japão vs Suécia
+Horário: 2026-06-25 21:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_F_tun_ned_20260625@fifa2026
+DTSTART:20260626T000000Z
+DTEND:20260626T020000Z
+SUMMARY:Tunísia vs Países Baixos
+DESCRIPTION:🏆 Fase de Grupos - Grupo F
+⚽ Tunísia vs Países Baixos
+📍 Arrowhead Stadium, Kansas City - EUA
+⏰ 2026-06-25 21:00:00 (BRT)
+
+Local: Arrowhead Stadium, Kansas City - EUA
+Fase: Fase de Grupos - Grupo F
+Confronto: Tunísia vs Países Baixos
+Horário: 2026-06-25 21:00:00 (BRT)
+LOCATION:Arrowhead Stadium, Kansas City - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_D_tur_usa_20260625@fifa2026
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Turquia vs Estados Unidos
+DESCRIPTION:🏆 Fase de Grupos - Grupo D
+⚽ Turquia vs Estados Unidos
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-06-25 23:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Fase de Grupos - Grupo D
+Confronto: Turquia vs Estados Unidos
+Horário: 2026-06-25 23:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_D_par_aus_20260625@fifa2026
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:Paraguai vs Austrália
+DESCRIPTION:🏆 Fase de Grupos - Grupo D
+⚽ Paraguai vs Austrália
+📍 Levi's Stadium, Santa Clara - EUA
+⏰ 2026-06-25 23:00:00 (BRT)
+
+Local: Levi's Stadium, Santa Clara - EUA
+Fase: Fase de Grupos - Grupo D
+Confronto: Paraguai vs Austrália
+Horário: 2026-06-25 23:00:00 (BRT)
+LOCATION:Levi's Stadium, Santa Clara - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_I_nor_fra_20260626@fifa2026
+DTSTART:20260626T210000Z
+DTEND:20260626T230000Z
+SUMMARY:Noruega vs França
+DESCRIPTION:🏆 Fase de Grupos - Grupo I
+⚽ Noruega vs França
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-06-26 18:00:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Fase de Grupos - Grupo I
+Confronto: Noruega vs França
+Horário: 2026-06-26 18:00:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_I_sen_irq_20260626@fifa2026
+DTSTART:20260626T210000Z
+DTEND:20260626T230000Z
+SUMMARY:Senegal vs Iraque
+DESCRIPTION:🏆 Fase de Grupos - Grupo I
+⚽ Senegal vs Iraque
+📍 BMO Field, Toronto - Canadá
+⏰ 2026-06-26 18:00:00 (BRT)
+
+Local: BMO Field, Toronto - Canadá
+Fase: Fase de Grupos - Grupo I
+Confronto: Senegal vs Iraque
+Horário: 2026-06-26 18:00:00 (BRT)
+LOCATION:BMO Field, Toronto - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_H_cpv_ksa_20260626@fifa2026
+DTSTART:20260627T010000Z
+DTEND:20260627T030000Z
+SUMMARY:Cabo Verde vs Arábia Saudita
+DESCRIPTION:🏆 Fase de Grupos - Grupo H
+⚽ Cabo Verde vs Arábia Saudita
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-06-26 22:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Fase de Grupos - Grupo H
+Confronto: Cabo Verde vs Arábia Saudita
+Horário: 2026-06-26 22:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_G_egy_irn_20260627@fifa2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Egito vs Irã
+DESCRIPTION:🏆 Fase de Grupos - Grupo G
+⚽ Egito vs Irã
+📍 Lumen Field, Seattle - EUA
+⏰ 2026-06-27 00:00:00 (BRT)
+
+Local: Lumen Field, Seattle - EUA
+Fase: Fase de Grupos - Grupo G
+Confronto: Egito vs Irã
+Horário: 2026-06-27 00:00:00 (BRT)
+LOCATION:Lumen Field, Seattle - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_G_nzl_bel_20260627@fifa2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Nova Zelândia vs Bélgica
+DESCRIPTION:🏆 Fase de Grupos - Grupo G
+⚽ Nova Zelândia vs Bélgica
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-06-27 00:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Fase de Grupos - Grupo G
+Confronto: Nova Zelândia vs Bélgica
+Horário: 2026-06-27 00:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_H_uru_esp_20260627@fifa2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:Uruguai vs Espanha
+DESCRIPTION:🏆 Fase de Grupos - Grupo H
+⚽ Uruguai vs Espanha
+📍 Estádio Akron, Guadalajara - México
+⏰ 2026-06-27 00:00:00 (BRT)
+
+Local: Estádio Akron, Guadalajara - México
+Fase: Fase de Grupos - Grupo H
+Confronto: Uruguai vs Espanha
+Horário: 2026-06-27 00:00:00 (BRT)
+LOCATION:Estádio Akron, Guadalajara - México
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_L_pan_eng_20260627@fifa2026
+DTSTART:20260627T230000Z
+DTEND:20260628T010000Z
+SUMMARY:Panamá vs Inglaterra
+DESCRIPTION:🏆 Fase de Grupos - Grupo L
+⚽ Panamá vs Inglaterra
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-06-27 20:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Fase de Grupos - Grupo L
+Confronto: Panamá vs Inglaterra
+Horário: 2026-06-27 20:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_L_cro_gha_20260627@fifa2026
+DTSTART:20260627T230000Z
+DTEND:20260628T010000Z
+SUMMARY:Croácia vs Gana
+DESCRIPTION:🏆 Fase de Grupos - Grupo L
+⚽ Croácia vs Gana
+📍 Lincoln Financial Field, Filadélfia - EUA
+⏰ 2026-06-27 20:00:00 (BRT)
+
+Local: Lincoln Financial Field, Filadélfia - EUA
+Fase: Fase de Grupos - Grupo L
+Confronto: Croácia vs Gana
+Horário: 2026-06-27 20:00:00 (BRT)
+LOCATION:Lincoln Financial Field, Filadélfia - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_J_jor_arg_20260628@fifa2026
+DTSTART:20260628T030000Z
+DTEND:20260628T050000Z
+SUMMARY:Jordânia vs Argentina
+DESCRIPTION:🏆 Fase de Grupos - Grupo J
+⚽ Jordânia vs Argentina
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-06-28 00:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Fase de Grupos - Grupo J
+Confronto: Jordânia vs Argentina
+Horário: 2026-06-28 00:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_J_alg_aut_20260628@fifa2026
+DTSTART:20260628T030000Z
+DTEND:20260628T050000Z
+SUMMARY:Argélia vs Áustria
+DESCRIPTION:🏆 Fase de Grupos - Grupo J
+⚽ Argélia vs Áustria
+📍 Arrowhead Stadium, Kansas City - EUA
+⏰ 2026-06-28 00:00:00 (BRT)
+
+Local: Arrowhead Stadium, Kansas City - EUA
+Fase: Fase de Grupos - Grupo J
+Confronto: Argélia vs Áustria
+Horário: 2026-06-28 00:00:00 (BRT)
+LOCATION:Arrowhead Stadium, Kansas City - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_a2_b2_20260628@fifa2026
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:2º Grupo A vs 2º Grupo B
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 2º Grupo A vs 2º Grupo B
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-06-28 16:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Dezesseis Avos
+Confronto: 2º Grupo A vs 2º Grupo B
+Horário: 2026-06-28 16:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_K_col_por_20260628@fifa2026
+DTSTART:20260629T013000Z
+DTEND:20260629T033000Z
+SUMMARY:Colômbia vs Portugal
+DESCRIPTION:🏆 Fase de Grupos - Grupo K
+⚽ Colômbia vs Portugal
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-06-28 22:30:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Fase de Grupos - Grupo K
+Confronto: Colômbia vs Portugal
+Horário: 2026-06-28 22:30:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:grupos_K_cod_uzb_20260628@fifa2026
+DTSTART:20260629T013000Z
+DTEND:20260629T033000Z
+SUMMARY:RD Congo vs Uzbequistão
+DESCRIPTION:🏆 Fase de Grupos - Grupo K
+⚽ RD Congo vs Uzbequistão
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-06-28 22:30:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Fase de Grupos - Grupo K
+Confronto: RD Congo vs Uzbequistão
+Horário: 2026-06-28 22:30:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Fase_de_Grupos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_c1_f2_20260629@fifa2026
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:1º Grupo C vs 2º Grupo F
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo C vs 2º Grupo F
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-06-29 14:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo C vs 2º Grupo F
+Horário: 2026-06-29 14:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_e1_3_20260629@fifa2026
+DTSTART:20260629T223000Z
+DTEND:20260630T003000Z
+SUMMARY:1º Grupo E vs 3º Grupo A/B/C/D/F
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo E vs 3º Grupo A/B/C/D/F
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-06-29 19:30:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo E vs 3º Grupo A/B/C/D/F
+Horário: 2026-06-29 19:30:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_f1_c2_20260630@fifa2026
+DTSTART:20260630T030000Z
+DTEND:20260630T050000Z
+SUMMARY:1º Grupo F vs 2º Grupo C
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo F vs 2º Grupo C
+📍 Estádio BBVA, Monterrey - México
+⏰ 2026-06-30 00:00:00 (BRT)
+
+Local: Estádio BBVA, Monterrey - México
+Fase: Dezesseis Avos
+Confronto: 1º Grupo F vs 2º Grupo C
+Horário: 2026-06-30 00:00:00 (BRT)
+LOCATION:Estádio BBVA, Monterrey - México
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_e2_i2_20260630@fifa2026
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:2º Grupo E vs 2º Grupo I
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 2º Grupo E vs 2º Grupo I
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-06-30 18:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Dezesseis Avos
+Confronto: 2º Grupo E vs 2º Grupo I
+Horário: 2026-06-30 18:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_i1_3_20260630@fifa2026
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:1º Grupo I vs 3º Grupo C/D/F/G/H
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo I vs 3º Grupo C/D/F/G/H
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-06-30 22:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo I vs 3º Grupo C/D/F/G/H
+Horário: 2026-06-30 22:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_a1_3_20260701@fifa2026
+DTSTART:20260701T030000Z
+DTEND:20260701T050000Z
+SUMMARY:1º Grupo A vs 3º Grupo C/E/F/H/I
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo A vs 3º Grupo C/E/F/H/I
+📍 Estádio Azteca, Cidade do México - México
+⏰ 2026-07-01 00:00:00 (BRT)
+
+Local: Estádio Azteca, Cidade do México - México
+Fase: Dezesseis Avos
+Confronto: 1º Grupo A vs 3º Grupo C/E/F/H/I
+Horário: 2026-07-01 00:00:00 (BRT)
+LOCATION:Estádio Azteca, Cidade do México - México
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_l1_3_20260701@fifa2026
+DTSTART:20260701T180000Z
+DTEND:20260701T200000Z
+SUMMARY:1º Grupo L vs 3º Grupo E/H/I/J/K
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo L vs 3º Grupo E/H/I/J/K
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-07-01 15:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo L vs 3º Grupo E/H/I/J/K
+Horário: 2026-07-01 15:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_g1_3_20260701@fifa2026
+DTSTART:20260701T220000Z
+DTEND:20260702T000000Z
+SUMMARY:1º Grupo G vs 3º Grupo A/E/H/I/J
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo G vs 3º Grupo A/E/H/I/J
+📍 Lumen Field, Seattle - EUA
+⏰ 2026-07-01 19:00:00 (BRT)
+
+Local: Lumen Field, Seattle - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo G vs 3º Grupo A/E/H/I/J
+Horário: 2026-07-01 19:00:00 (BRT)
+LOCATION:Lumen Field, Seattle - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_d1_3_20260702@fifa2026
+DTSTART:20260702T030000Z
+DTEND:20260702T050000Z
+SUMMARY:1º Grupo D vs 3º Grupo B/E/F/I/J
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo D vs 3º Grupo B/E/F/I/J
+📍 Levi's Stadium, Santa Clara - EUA
+⏰ 2026-07-02 00:00:00 (BRT)
+
+Local: Levi's Stadium, Santa Clara - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo D vs 3º Grupo B/E/F/I/J
+Horário: 2026-07-02 00:00:00 (BRT)
+LOCATION:Levi's Stadium, Santa Clara - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_h1_j2_20260702@fifa2026
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:1º Grupo H vs 2º Grupo J
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo H vs 2º Grupo J
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-07-02 20:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo H vs 2º Grupo J
+Horário: 2026-07-02 20:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_k2_l2_20260702@fifa2026
+DTSTART:20260703T020000Z
+DTEND:20260703T040000Z
+SUMMARY:2º Grupo K vs 2º Grupo L
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 2º Grupo K vs 2º Grupo L
+📍 BMO Field, Toronto - Canadá
+⏰ 2026-07-02 23:00:00 (BRT)
+
+Local: BMO Field, Toronto - Canadá
+Fase: Dezesseis Avos
+Confronto: 2º Grupo K vs 2º Grupo L
+Horário: 2026-07-02 23:00:00 (BRT)
+LOCATION:BMO Field, Toronto - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_b1_3_20260703@fifa2026
+DTSTART:20260703T050000Z
+DTEND:20260703T070000Z
+SUMMARY:1º Grupo B vs 3º Grupo E/F/G/I/J
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo B vs 3º Grupo E/F/G/I/J
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-07-03 02:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Dezesseis Avos
+Confronto: 1º Grupo B vs 3º Grupo E/F/G/I/J
+Horário: 2026-07-03 02:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_d2_g2_20260703@fifa2026
+DTSTART:20260703T200000Z
+DTEND:20260703T220000Z
+SUMMARY:2º Grupo D vs 2º Grupo G
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 2º Grupo D vs 2º Grupo G
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-07-03 17:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Dezesseis Avos
+Confronto: 2º Grupo D vs 2º Grupo G
+Horário: 2026-07-03 17:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_j1_h2_20260703@fifa2026
+DTSTART:20260704T000000Z
+DTEND:20260704T020000Z
+SUMMARY:1º Grupo J vs 2º Grupo H
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo J vs 2º Grupo H
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-07-03 21:00:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo J vs 2º Grupo H
+Horário: 2026-07-03 21:00:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_32_k1_3_20260704@fifa2026
+DTSTART:20260704T033000Z
+DTEND:20260704T053000Z
+SUMMARY:1º Grupo K vs 3º Grupo D/E/I/J/L
+DESCRIPTION:🏆 Dezesseis Avos
+⚽ 1º Grupo K vs 3º Grupo D/E/I/J/L
+📍 Arrowhead Stadium, Kansas City - EUA
+⏰ 2026-07-04 00:30:00 (BRT)
+
+Local: Arrowhead Stadium, Kansas City - EUA
+Fase: Dezesseis Avos
+Confronto: 1º Grupo K vs 3º Grupo D/E/I/J/L
+Horário: 2026-07-04 00:30:00 (BRT)
+LOCATION:Arrowhead Stadium, Kansas City - EUA
+STATUS:TENTATIVE
+CATEGORIES:Dezesseis_Avos
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_73_74_20260704@fifa2026
+DTSTART:20260704T180000Z
+DTEND:20260704T200000Z
+SUMMARY:Venc. Jogo 73 vs Venc. Jogo 74
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 73 vs Venc. Jogo 74
+📍 NRG Stadium, Houston - EUA
+⏰ 2026-07-04 15:00:00 (BRT)
+
+Local: NRG Stadium, Houston - EUA
+Fase: Oitavas
+Confronto: Venc. Jogo 73 vs Venc. Jogo 74
+Horário: 2026-07-04 15:00:00 (BRT)
+LOCATION:NRG Stadium, Houston - EUA
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_75_76_20260704@fifa2026
+DTSTART:20260704T220000Z
+DTEND:20260705T000000Z
+SUMMARY:Venc. Jogo 75 vs Venc. Jogo 76
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 75 vs Venc. Jogo 76
+📍 Lincoln Financial Field, Filadélfia - EUA
+⏰ 2026-07-04 19:00:00 (BRT)
+
+Local: Lincoln Financial Field, Filadélfia - EUA
+Fase: Oitavas
+Confronto: Venc. Jogo 75 vs Venc. Jogo 76
+Horário: 2026-07-04 19:00:00 (BRT)
+LOCATION:Lincoln Financial Field, Filadélfia - EUA
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_77_78_20260705@fifa2026
+DTSTART:20260705T220000Z
+DTEND:20260706T000000Z
+SUMMARY:Venc. Jogo 77 vs Venc. Jogo 78
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 77 vs Venc. Jogo 78
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-07-05 19:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Oitavas
+Confronto: Venc. Jogo 77 vs Venc. Jogo 78
+Horário: 2026-07-05 19:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_79_80_20260706@fifa2026
+DTSTART:20260706T030000Z
+DTEND:20260706T050000Z
+SUMMARY:Venc. Jogo 79 vs Venc. Jogo 80
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 79 vs Venc. Jogo 80
+📍 Estádio Azteca, Cidade do México - México
+⏰ 2026-07-06 00:00:00 (BRT)
+
+Local: Estádio Azteca, Cidade do México - México
+Fase: Oitavas
+Confronto: Venc. Jogo 79 vs Venc. Jogo 80
+Horário: 2026-07-06 00:00:00 (BRT)
+LOCATION:Estádio Azteca, Cidade do México - México
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_81_82_20260706@fifa2026
+DTSTART:20260706T210000Z
+DTEND:20260706T230000Z
+SUMMARY:Venc. Jogo 81 vs Venc. Jogo 82
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 81 vs Venc. Jogo 82
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-07-06 18:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Oitavas
+Confronto: Venc. Jogo 81 vs Venc. Jogo 82
+Horário: 2026-07-06 18:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_83_84_20260706@fifa2026
+DTSTART:20260707T020000Z
+DTEND:20260707T040000Z
+SUMMARY:Venc. Jogo 83 vs Venc. Jogo 84
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 83 vs Venc. Jogo 84
+📍 Lumen Field, Seattle - EUA
+⏰ 2026-07-06 23:00:00 (BRT)
+
+Local: Lumen Field, Seattle - EUA
+Fase: Oitavas
+Confronto: Venc. Jogo 83 vs Venc. Jogo 84
+Horário: 2026-07-06 23:00:00 (BRT)
+LOCATION:Lumen Field, Seattle - EUA
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_85_86_20260707@fifa2026
+DTSTART:20260707T180000Z
+DTEND:20260707T200000Z
+SUMMARY:Venc. Jogo 85 vs Venc. Jogo 86
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 85 vs Venc. Jogo 86
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-07-07 15:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Oitavas
+Confronto: Venc. Jogo 85 vs Venc. Jogo 86
+Horário: 2026-07-07 15:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_16_87_88_20260707@fifa2026
+DTSTART:20260707T220000Z
+DTEND:20260708T000000Z
+SUMMARY:Venc. Jogo 87 vs Venc. Jogo 88
+DESCRIPTION:🏆 Oitavas
+⚽ Venc. Jogo 87 vs Venc. Jogo 88
+📍 BC Place, Vancouver - Canadá
+⏰ 2026-07-07 19:00:00 (BRT)
+
+Local: BC Place, Vancouver - Canadá
+Fase: Oitavas
+Confronto: Venc. Jogo 87 vs Venc. Jogo 88
+Horário: 2026-07-07 19:00:00 (BRT)
+LOCATION:BC Place, Vancouver - Canadá
+STATUS:TENTATIVE
+CATEGORIES:Oitavas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_qf_89_90_20260709@fifa2026
+DTSTART:20260709T220000Z
+DTEND:20260710T000000Z
+SUMMARY:Venc. Jogo 89 vs Venc. Jogo 90
+DESCRIPTION:🏆 Quartas
+⚽ Venc. Jogo 89 vs Venc. Jogo 90
+📍 Gillette Stadium, Foxborough - EUA
+⏰ 2026-07-09 19:00:00 (BRT)
+
+Local: Gillette Stadium, Foxborough - EUA
+Fase: Quartas
+Confronto: Venc. Jogo 89 vs Venc. Jogo 90
+Horário: 2026-07-09 19:00:00 (BRT)
+LOCATION:Gillette Stadium, Foxborough - EUA
+STATUS:TENTATIVE
+CATEGORIES:Quartas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_qf_91_92_20260710@fifa2026
+DTSTART:20260710T210000Z
+DTEND:20260710T230000Z
+SUMMARY:Venc. Jogo 91 vs Venc. Jogo 92
+DESCRIPTION:🏆 Quartas
+⚽ Venc. Jogo 91 vs Venc. Jogo 92
+📍 SoFi Stadium, Los Angeles - EUA
+⏰ 2026-07-10 18:00:00 (BRT)
+
+Local: SoFi Stadium, Los Angeles - EUA
+Fase: Quartas
+Confronto: Venc. Jogo 91 vs Venc. Jogo 92
+Horário: 2026-07-10 18:00:00 (BRT)
+LOCATION:SoFi Stadium, Los Angeles - EUA
+STATUS:TENTATIVE
+CATEGORIES:Quartas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_qf_93_94_20260711@fifa2026
+DTSTART:20260711T230000Z
+DTEND:20260712T010000Z
+SUMMARY:Venc. Jogo 93 vs Venc. Jogo 94
+DESCRIPTION:🏆 Quartas
+⚽ Venc. Jogo 93 vs Venc. Jogo 94
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-07-11 20:00:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Quartas
+Confronto: Venc. Jogo 93 vs Venc. Jogo 94
+Horário: 2026-07-11 20:00:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Quartas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_qf_95_96_20260711@fifa2026
+DTSTART:20260712T030000Z
+DTEND:20260712T050000Z
+SUMMARY:Venc. Jogo 95 vs Venc. Jogo 96
+DESCRIPTION:🏆 Quartas
+⚽ Venc. Jogo 95 vs Venc. Jogo 96
+📍 Arrowhead Stadium, Kansas City - EUA
+⏰ 2026-07-12 00:00:00 (BRT)
+
+Local: Arrowhead Stadium, Kansas City - EUA
+Fase: Quartas
+Confronto: Venc. Jogo 95 vs Venc. Jogo 96
+Horário: 2026-07-12 00:00:00 (BRT)
+LOCATION:Arrowhead Stadium, Kansas City - EUA
+STATUS:TENTATIVE
+CATEGORIES:Quartas
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_sf_97_98_20260714@fifa2026
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Venc. Jogo 97 vs Venc. Jogo 98
+DESCRIPTION:🏆 Semifinal
+⚽ Venc. Jogo 97 vs Venc. Jogo 98
+📍 AT&T Stadium, Arlington - EUA
+⏰ 2026-07-14 16:00:00 (BRT)
+
+Local: AT&T Stadium, Arlington - EUA
+Fase: Semifinal
+Confronto: Venc. Jogo 97 vs Venc. Jogo 98
+Horário: 2026-07-14 16:00:00 (BRT)
+LOCATION:AT&T Stadium, Arlington - EUA
+STATUS:TENTATIVE
+CATEGORIES:Semifinal
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_sf_99_100_20260715@fifa2026
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:Venc. Jogo 99 vs Venc. Jogo 100
+DESCRIPTION:🏆 Semifinal
+⚽ Venc. Jogo 99 vs Venc. Jogo 100
+📍 Mercedes-Benz Stadium, Atlanta - EUA
+⏰ 2026-07-15 16:00:00 (BRT)
+
+Local: Mercedes-Benz Stadium, Atlanta - EUA
+Fase: Semifinal
+Confronto: Venc. Jogo 99 vs Venc. Jogo 100
+Horário: 2026-07-15 16:00:00 (BRT)
+LOCATION:Mercedes-Benz Stadium, Atlanta - EUA
+STATUS:TENTATIVE
+CATEGORIES:Semifinal
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_3p_101_102_20260718@fifa2026
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:Perd. Jogo 101 vs Perd. Jogo 102
+DESCRIPTION:🏆 Terceiro Lugar
+⚽ Perd. Jogo 101 vs Perd. Jogo 102
+📍 Hard Rock Stadium, Miami Gardens - EUA
+⏰ 2026-07-18 18:00:00 (BRT)
+
+Local: Hard Rock Stadium, Miami Gardens - EUA
+Fase: Terceiro Lugar
+Confronto: Perd. Jogo 101 vs Perd. Jogo 102
+Horário: 2026-07-18 18:00:00 (BRT)
+LOCATION:Hard Rock Stadium, Miami Gardens - EUA
+STATUS:TENTATIVE
+CATEGORIES:Terceiro_Lugar
+END:VEVENT
+BEGIN:VEVENT
+UID:mata_mata_fin_101_102_20260719@fifa2026
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:Venc. Jogo 101 vs Venc. Jogo 102
+DESCRIPTION:🏆 Final
+⚽ Venc. Jogo 101 vs Venc. Jogo 102
+📍 MetLife Stadium, East Rutherford - EUA
+⏰ 2026-07-19 16:00:00 (BRT)
+
+Local: MetLife Stadium, East Rutherford - EUA
+Fase: Final
+Confronto: Venc. Jogo 101 vs Venc. Jogo 102
+Horário: 2026-07-19 16:00:00 (BRT)
+LOCATION:MetLife Stadium, East Rutherford - EUA
+STATUS:TENTATIVE
+CATEGORIES:Final
+END:VEVENT
+END:VCALENDAR
