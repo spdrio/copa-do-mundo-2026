@@ -9,7 +9,7 @@ BEGIN:VEVENT
 UID:grupos_A_mex_rsa_20260611@fifa2026
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:México vs África do Sul
+SUMMARY:México x África do Sul
 DESCRIPTION:🏆 Fase de Grupos - Grupo A
 ⚽ México vs África do Sul
 📍 Estádio Azteca, Cidade do México - México
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 UID:grupos_A_kor_cze_20260611@fifa2026
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:Coreia do Sul vs Chéquia
+SUMMARY:Coreia do Sul x Chéquia
 DESCRIPTION:🏆 Fase de Grupos - Grupo A
 ⚽ Coreia do Sul vs Chéquia
 📍 Estádio Akron, Guadalajara - México
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:grupos_B_can_bih_20260612@fifa2026
 DTSTART:20260612T200000Z
 DTEND:20260612T220000Z
-SUMMARY:Canadá vs Bósnia e Herzegovina
+SUMMARY:Canadá x Bósnia e Herzegovina
 DESCRIPTION:🏆 Fase de Grupos - Grupo B
 ⚽ Canadá vs Bósnia e Herzegovina
 📍 BMO Field, Toronto - Canadá
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 UID:grupos_D_usa_par_20260612@fifa2026
 DTSTART:20260613T020000Z
 DTEND:20260613T040000Z
-SUMMARY:Estados Unidos vs Paraguai
+SUMMARY:Estados Unidos x Paraguai
 DESCRIPTION:🏆 Fase de Grupos - Grupo D
 ⚽ Estados Unidos vs Paraguai
 📍 SoFi Stadium, Los Angeles - EUA
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 UID:grupos_D_aus_tur_20260613@fifa2026
 DTSTART:20260613T050000Z
 DTEND:20260613T070000Z
-SUMMARY:Austrália vs Turquia
+SUMMARY:Austrália x Turquia
 DESCRIPTION:🏆 Fase de Grupos - Grupo D
 ⚽ Austrália vs Turquia
 📍 BC Place, Vancouver - Canadá
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 UID:grupos_B_qat_sui_20260613@fifa2026
 DTSTART:20260613T170000Z
 DTEND:20260613T190000Z
-SUMMARY:Catar vs Suíça
+SUMMARY:Catar x Suíça
 DESCRIPTION:🏆 Fase de Grupos - Grupo B
 ⚽ Catar vs Suíça
 📍 Levi's Stadium, Santa Clara - EUA
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 UID:grupos_C_bra_mar_20260613@fifa2026
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-SUMMARY:Brasil vs Marrocos
+SUMMARY:Brasil x Marrocos
 DESCRIPTION:🏆 Fase de Grupos - Grupo C
 ⚽ Brasil vs Marrocos
 📍 MetLife Stadium, East Rutherford - EUA
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 UID:grupos_C_hai_sco_20260613@fifa2026
 DTSTART:20260614T020000Z
 DTEND:20260614T040000Z
-SUMMARY:Haiti vs Escócia
+SUMMARY:Haiti x Escócia
 DESCRIPTION:🏆 Fase de Grupos - Grupo C
 ⚽ Haiti vs Escócia
 📍 Gillette Stadium, Foxborough - EUA
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 UID:grupos_E_ger_cur_20260614@fifa2026
 DTSTART:20260614T180000Z
 DTEND:20260614T200000Z
-SUMMARY:Alemanha vs Curaçao
+SUMMARY:Alemanha x Curaçao
 DESCRIPTION:🏆 Fase de Grupos - Grupo E
 ⚽ Alemanha vs Curaçao
 📍 NRG Stadium, Houston - EUA
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 UID:grupos_F_ned_jpn_20260614@fifa2026
 DTSTART:20260614T210000Z
 DTEND:20260614T230000Z
-SUMMARY:Países Baixos vs Japão
+SUMMARY:Países Baixos x Japão
 DESCRIPTION:🏆 Fase de Grupos - Grupo F
 ⚽ Países Baixos vs Japão
 📍 AT&T Stadium, Arlington - EUA
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 UID:grupos_E_civ_ecu_20260614@fifa2026
 DTSTART:20260615T000000Z
 DTEND:20260615T020000Z
-SUMMARY:Costa do Marfim vs Equador
+SUMMARY:Costa do Marfim x Equador
 DESCRIPTION:🏆 Fase de Grupos - Grupo E
 ⚽ Costa do Marfim vs Equador
 📍 Lincoln Financial Field, Filadélfia - EUA
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 UID:grupos_F_swe_tun_20260615@fifa2026
 DTSTART:20260615T030000Z
 DTEND:20260615T050000Z
-SUMMARY:Suécia vs Tunísia
+SUMMARY:Suécia x Tunísia
 DESCRIPTION:🏆 Fase de Grupos - Grupo F
 ⚽ Suécia vs Tunísia
 📍 Estádio BBVA, Monterrey - México
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 UID:grupos_H_esp_cpv_20260615@fifa2026
 DTSTART:20260615T180000Z
 DTEND:20260615T200000Z
-SUMMARY:Espanha vs Cabo Verde
+SUMMARY:Espanha x Cabo Verde
 DESCRIPTION:🏆 Fase de Grupos - Grupo H
 ⚽ Espanha vs Cabo Verde
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 UID:grupos_G_bel_egy_20260615@fifa2026
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-SUMMARY:Bélgica vs Egito
+SUMMARY:Bélgica x Egito
 DESCRIPTION:🏆 Fase de Grupos - Grupo G
 ⚽ Bélgica vs Egito
 📍 Lumen Field, Seattle - EUA
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 UID:grupos_H_ksa_uru_20260615@fifa2026
 DTSTART:20260616T000000Z
 DTEND:20260616T020000Z
-SUMMARY:Arábia Saudita vs Uruguai
+SUMMARY:Arábia Saudita x Uruguai
 DESCRIPTION:🏆 Fase de Grupos - Grupo H
 ⚽ Arábia Saudita vs Uruguai
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 UID:grupos_G_irn_nzl_20260616@fifa2026
 DTSTART:20260616T030000Z
 DTEND:20260616T050000Z
-SUMMARY:Irã vs Nova Zelândia
+SUMMARY:Irã x Nova Zelândia
 DESCRIPTION:🏆 Fase de Grupos - Grupo G
 ⚽ Irã vs Nova Zelândia
 📍 SoFi Stadium, Los Angeles - EUA
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 UID:grupos_I_fra_sen_20260616@fifa2026
 DTSTART:20260616T200000Z
 DTEND:20260616T220000Z
-SUMMARY:França vs Senegal
+SUMMARY:França x Senegal
 DESCRIPTION:🏆 Fase de Grupos - Grupo I
 ⚽ França vs Senegal
 📍 MetLife Stadium, East Rutherford - EUA
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 UID:grupos_I_irq_nor_20260616@fifa2026
 DTSTART:20260616T230000Z
 DTEND:20260617T010000Z
-SUMMARY:Iraque vs Noruega
+SUMMARY:Iraque x Noruega
 DESCRIPTION:🏆 Fase de Grupos - Grupo I
 ⚽ Iraque vs Noruega
 📍 Gillette Stadium, Foxborough - EUA
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 UID:grupos_J_arg_alg_20260616@fifa2026
 DTSTART:20260617T020000Z
 DTEND:20260617T040000Z
-SUMMARY:Argentina vs Argélia
+SUMMARY:Argentina x Argélia
 DESCRIPTION:🏆 Fase de Grupos - Grupo J
 ⚽ Argentina vs Argélia
 📍 Arrowhead Stadium, Kansas City - EUA
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 UID:grupos_J_aut_jor_20260617@fifa2026
 DTSTART:20260617T050000Z
 DTEND:20260617T070000Z
-SUMMARY:Áustria vs Jordânia
+SUMMARY:Áustria x Jordânia
 DESCRIPTION:🏆 Fase de Grupos - Grupo J
 ⚽ Áustria vs Jordânia
 📍 Levi's Stadium, Santa Clara - EUA
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 UID:grupos_K_por_cod_20260617@fifa2026
 DTSTART:20260617T180000Z
 DTEND:20260617T200000Z
-SUMMARY:Portugal vs RD Congo
+SUMMARY:Portugal x RD Congo
 DESCRIPTION:🏆 Fase de Grupos - Grupo K
 ⚽ Portugal vs RD Congo
 📍 NRG Stadium, Houston - EUA
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 UID:grupos_L_eng_cro_20260617@fifa2026
 DTSTART:20260617T210000Z
 DTEND:20260617T230000Z
-SUMMARY:Inglaterra vs Croácia
+SUMMARY:Inglaterra x Croácia
 DESCRIPTION:🏆 Fase de Grupos - Grupo L
 ⚽ Inglaterra vs Croácia
 📍 AT&T Stadium, Arlington - EUA
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 UID:grupos_L_gha_pan_20260617@fifa2026
 DTSTART:20260618T000000Z
 DTEND:20260618T020000Z
-SUMMARY:Gana vs Panamá
+SUMMARY:Gana x Panamá
 DESCRIPTION:🏆 Fase de Grupos - Grupo L
 ⚽ Gana vs Panamá
 📍 BMO Field, Toronto - Canadá
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 UID:grupos_K_uzb_col_20260618@fifa2026
 DTSTART:20260618T030000Z
 DTEND:20260618T050000Z
-SUMMARY:Uzbequistão vs Colômbia
+SUMMARY:Uzbequistão x Colômbia
 DESCRIPTION:🏆 Fase de Grupos - Grupo K
 ⚽ Uzbequistão vs Colômbia
 📍 Estádio Azteca, Cidade do México - México
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 UID:grupos_A_cze_rsa_20260618@fifa2026
 DTSTART:20260618T170000Z
 DTEND:20260618T190000Z
-SUMMARY:Chéquia vs África do Sul
+SUMMARY:Chéquia x África do Sul
 DESCRIPTION:🏆 Fase de Grupos - Grupo A
 ⚽ Chéquia vs África do Sul
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 UID:grupos_B_sui_bih_20260618@fifa2026
 DTSTART:20260618T200000Z
 DTEND:20260618T220000Z
-SUMMARY:Suíça vs Bósnia e Herzegovina
+SUMMARY:Suíça x Bósnia e Herzegovina
 DESCRIPTION:🏆 Fase de Grupos - Grupo B
 ⚽ Suíça vs Bósnia e Herzegovina
 📍 SoFi Stadium, Los Angeles - EUA
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 UID:grupos_B_can_qat_20260618@fifa2026
 DTSTART:20260618T230000Z
 DTEND:20260619T010000Z
-SUMMARY:Canadá vs Catar
+SUMMARY:Canadá x Catar
 DESCRIPTION:🏆 Fase de Grupos - Grupo B
 ⚽ Canadá vs Catar
 📍 BC Place, Vancouver - Canadá
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 UID:grupos_A_mex_kor_20260618@fifa2026
 DTSTART:20260619T020000Z
 DTEND:20260619T040000Z
-SUMMARY:México vs Coreia do Sul
+SUMMARY:México x Coreia do Sul
 DESCRIPTION:🏆 Fase de Grupos - Grupo A
 ⚽ México vs Coreia do Sul
 📍 Estádio Akron, Guadalajara - México
@@ -513,7 +513,7 @@ BEGIN:VEVENT
 UID:grupos_D_usa_aus_20260619@fifa2026
 DTSTART:20260619T200000Z
 DTEND:20260619T220000Z
-SUMMARY:Estados Unidos vs Austrália
+SUMMARY:Estados Unidos x Austrália
 DESCRIPTION:🏆 Fase de Grupos - Grupo D
 ⚽ Estados Unidos vs Austrália
 📍 Lumen Field, Seattle - EUA
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 UID:grupos_C_sco_mar_20260619@fifa2026
 DTSTART:20260619T230000Z
 DTEND:20260620T010000Z
-SUMMARY:Escócia vs Marrocos
+SUMMARY:Escócia x Marrocos
 DESCRIPTION:🏆 Fase de Grupos - Grupo C
 ⚽ Escócia vs Marrocos
 📍 Gillette Stadium, Foxborough - EUA
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 UID:grupos_C_bra_hai_20260619@fifa2026
 DTSTART:20260620T013000Z
 DTEND:20260620T033000Z
-SUMMARY:Brasil vs Haiti
+SUMMARY:Brasil x Haiti
 DESCRIPTION:🏆 Fase de Grupos - Grupo C
 ⚽ Brasil vs Haiti
 📍 Lincoln Financial Field, Filadélfia - EUA
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 UID:grupos_D_tur_par_20260620@fifa2026
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:Turquia vs Paraguai
+SUMMARY:Turquia x Paraguai
 DESCRIPTION:🏆 Fase de Grupos - Grupo D
 ⚽ Turquia vs Paraguai
 📍 Levi's Stadium, Santa Clara - EUA
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 UID:grupos_F_tun_jpn_20260620@fifa2026
 DTSTART:20260620T050000Z
 DTEND:20260620T070000Z
-SUMMARY:Tunísia vs Japão
+SUMMARY:Tunísia x Japão
 DESCRIPTION:🏆 Fase de Grupos - Grupo F
 ⚽ Tunísia vs Japão
 📍 Estádio BBVA, Monterrey - México
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 UID:grupos_F_ned_swe_20260620@fifa2026
 DTSTART:20260620T180000Z
 DTEND:20260620T200000Z
-SUMMARY:Países Baixos vs Suécia
+SUMMARY:Países Baixos x Suécia
 DESCRIPTION:🏆 Fase de Grupos - Grupo F
 ⚽ Países Baixos vs Suécia
 📍 NRG Stadium, Houston - EUA
@@ -621,7 +621,7 @@ BEGIN:VEVENT
 UID:grupos_E_ger_civ_20260620@fifa2026
 DTSTART:20260620T210000Z
 DTEND:20260620T230000Z
-SUMMARY:Alemanha vs Costa do Marfim
+SUMMARY:Alemanha x Costa do Marfim
 DESCRIPTION:🏆 Fase de Grupos - Grupo E
 ⚽ Alemanha vs Costa do Marfim
 📍 BMO Field, Toronto - Canadá
@@ -639,7 +639,7 @@ BEGIN:VEVENT
 UID:grupos_E_ecu_cur_20260620@fifa2026
 DTSTART:20260621T010000Z
 DTEND:20260621T030000Z
-SUMMARY:Equador vs Curaçao
+SUMMARY:Equador x Curaçao
 DESCRIPTION:🏆 Fase de Grupos - Grupo E
 ⚽ Equador vs Curaçao
 📍 Arrowhead Stadium, Kansas City - EUA
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 UID:grupos_H_esp_ksa_20260621@fifa2026
 DTSTART:20260621T180000Z
 DTEND:20260621T200000Z
-SUMMARY:Espanha vs Arábia Saudita
+SUMMARY:Espanha x Arábia Saudita
 DESCRIPTION:🏆 Fase de Grupos - Grupo H
 ⚽ Espanha vs Arábia Saudita
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -675,7 +675,7 @@ BEGIN:VEVENT
 UID:grupos_G_bel_irn_20260621@fifa2026
 DTSTART:20260621T210000Z
 DTEND:20260621T230000Z
-SUMMARY:Bélgica vs Irã
+SUMMARY:Bélgica x Irã
 DESCRIPTION:🏆 Fase de Grupos - Grupo G
 ⚽ Bélgica vs Irã
 📍 SoFi Stadium, Los Angeles - EUA
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 UID:grupos_H_uru_cpv_20260621@fifa2026
 DTSTART:20260622T000000Z
 DTEND:20260622T020000Z
-SUMMARY:Uruguai vs Cabo Verde
+SUMMARY:Uruguai x Cabo Verde
 DESCRIPTION:🏆 Fase de Grupos - Grupo H
 ⚽ Uruguai vs Cabo Verde
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -711,7 +711,7 @@ BEGIN:VEVENT
 UID:grupos_G_nzl_egy_20260622@fifa2026
 DTSTART:20260622T030000Z
 DTEND:20260622T050000Z
-SUMMARY:Nova Zelândia vs Egito
+SUMMARY:Nova Zelândia x Egito
 DESCRIPTION:🏆 Fase de Grupos - Grupo G
 ⚽ Nova Zelândia vs Egito
 📍 BC Place, Vancouver - Canadá
@@ -729,7 +729,7 @@ BEGIN:VEVENT
 UID:grupos_J_arg_aut_20260622@fifa2026
 DTSTART:20260622T180000Z
 DTEND:20260622T200000Z
-SUMMARY:Argentina vs Áustria
+SUMMARY:Argentina x Áustria
 DESCRIPTION:🏆 Fase de Grupos - Grupo J
 ⚽ Argentina vs Áustria
 📍 AT&T Stadium, Arlington - EUA
@@ -747,7 +747,7 @@ BEGIN:VEVENT
 UID:grupos_I_fra_irq_20260622@fifa2026
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SUMMARY:França vs Iraque
+SUMMARY:França x Iraque
 DESCRIPTION:🏆 Fase de Grupos - Grupo I
 ⚽ França vs Iraque
 📍 Lincoln Financial Field, Filadélfia - EUA
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 UID:grupos_I_nor_sen_20260622@fifa2026
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-SUMMARY:Noruega vs Senegal
+SUMMARY:Noruega x Senegal
 DESCRIPTION:🏆 Fase de Grupos - Grupo I
 ⚽ Noruega vs Senegal
 📍 MetLife Stadium, East Rutherford - EUA
@@ -783,7 +783,7 @@ BEGIN:VEVENT
 UID:grupos_J_jor_alg_20260623@fifa2026
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
-SUMMARY:Jordânia vs Argélia
+SUMMARY:Jordânia x Argélia
 DESCRIPTION:🏆 Fase de Grupos - Grupo J
 ⚽ Jordânia vs Argélia
 📍 Levi's Stadium, Santa Clara - EUA
@@ -801,7 +801,7 @@ BEGIN:VEVENT
 UID:grupos_K_por_uzb_20260623@fifa2026
 DTSTART:20260623T180000Z
 DTEND:20260623T200000Z
-SUMMARY:Portugal vs Uzbequistão
+SUMMARY:Portugal x Uzbequistão
 DESCRIPTION:🏆 Fase de Grupos - Grupo K
 ⚽ Portugal vs Uzbequistão
 📍 NRG Stadium, Houston - EUA
@@ -819,7 +819,7 @@ BEGIN:VEVENT
 UID:grupos_L_eng_gha_20260623@fifa2026
 DTSTART:20260623T210000Z
 DTEND:20260623T230000Z
-SUMMARY:Inglaterra vs Gana
+SUMMARY:Inglaterra x Gana
 DESCRIPTION:🏆 Fase de Grupos - Grupo L
 ⚽ Inglaterra vs Gana
 📍 Gillette Stadium, Foxborough - EUA
@@ -837,7 +837,7 @@ BEGIN:VEVENT
 UID:grupos_L_pan_cro_20260623@fifa2026
 DTSTART:20260624T000000Z
 DTEND:20260624T020000Z
-SUMMARY:Panamá vs Croácia
+SUMMARY:Panamá x Croácia
 DESCRIPTION:🏆 Fase de Grupos - Grupo L
 ⚽ Panamá vs Croácia
 📍 BMO Field, Toronto - Canadá
@@ -855,7 +855,7 @@ BEGIN:VEVENT
 UID:grupos_K_col_cod_20260624@fifa2026
 DTSTART:20260624T030000Z
 DTEND:20260624T050000Z
-SUMMARY:Colômbia vs RD Congo
+SUMMARY:Colômbia x RD Congo
 DESCRIPTION:🏆 Fase de Grupos - Grupo K
 ⚽ Colômbia vs RD Congo
 📍 Estádio Akron, Guadalajara - México
@@ -873,7 +873,7 @@ BEGIN:VEVENT
 UID:grupos_B_sui_can_20260624@fifa2026
 DTSTART:20260624T200000Z
 DTEND:20260624T220000Z
-SUMMARY:Suíça vs Canadá
+SUMMARY:Suíça x Canadá
 DESCRIPTION:🏆 Fase de Grupos - Grupo B
 ⚽ Suíça vs Canadá
 📍 BC Place, Vancouver - Canadá
@@ -891,7 +891,7 @@ BEGIN:VEVENT
 UID:grupos_B_bih_qat_20260624@fifa2026
 DTSTART:20260624T200000Z
 DTEND:20260624T220000Z
-SUMMARY:Bósnia e Herzegovina vs Catar
+SUMMARY:Bósnia e Herzegovina x Catar
 DESCRIPTION:🏆 Fase de Grupos - Grupo B
 ⚽ Bósnia e Herzegovina vs Catar
 📍 Lumen Field, Seattle - EUA
@@ -909,7 +909,7 @@ BEGIN:VEVENT
 UID:grupos_C_sco_bra_20260624@fifa2026
 DTSTART:20260624T230000Z
 DTEND:20260625T010000Z
-SUMMARY:Escócia vs Brasil
+SUMMARY:Escócia x Brasil
 DESCRIPTION:🏆 Fase de Grupos - Grupo C
 ⚽ Escócia vs Brasil
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -927,7 +927,7 @@ BEGIN:VEVENT
 UID:grupos_C_mar_hai_20260624@fifa2026
 DTSTART:20260624T230000Z
 DTEND:20260625T010000Z
-SUMMARY:Marrocos vs Haiti
+SUMMARY:Marrocos x Haiti
 DESCRIPTION:🏆 Fase de Grupos - Grupo C
 ⚽ Marrocos vs Haiti
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 UID:grupos_A_cze_mex_20260624@fifa2026
 DTSTART:20260625T020000Z
 DTEND:20260625T040000Z
-SUMMARY:Chéquia vs México
+SUMMARY:Chéquia x México
 DESCRIPTION:🏆 Fase de Grupos - Grupo A
 ⚽ Chéquia vs México
 📍 Estádio Azteca, Cidade do México - México
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 UID:grupos_A_rsa_kor_20260624@fifa2026
 DTSTART:20260625T020000Z
 DTEND:20260625T040000Z
-SUMMARY:África do Sul vs Coreia do Sul
+SUMMARY:África do Sul x Coreia do Sul
 DESCRIPTION:🏆 Fase de Grupos - Grupo A
 ⚽ África do Sul vs Coreia do Sul
 📍 Estádio BBVA, Monterrey - México
@@ -981,7 +981,7 @@ BEGIN:VEVENT
 UID:grupos_E_cur_civ_20260625@fifa2026
 DTSTART:20260625T210000Z
 DTEND:20260625T230000Z
-SUMMARY:Curaçao vs Costa do Marfim
+SUMMARY:Curaçao x Costa do Marfim
 DESCRIPTION:🏆 Fase de Grupos - Grupo E
 ⚽ Curaçao vs Costa do Marfim
 📍 Lincoln Financial Field, Filadélfia - EUA
@@ -999,7 +999,7 @@ BEGIN:VEVENT
 UID:grupos_E_ecu_ger_20260625@fifa2026
 DTSTART:20260625T210000Z
 DTEND:20260625T230000Z
-SUMMARY:Equador vs Alemanha
+SUMMARY:Equador x Alemanha
 DESCRIPTION:🏆 Fase de Grupos - Grupo E
 ⚽ Equador vs Alemanha
 📍 MetLife Stadium, East Rutherford - EUA
@@ -1017,7 +1017,7 @@ BEGIN:VEVENT
 UID:grupos_F_jpn_swe_20260625@fifa2026
 DTSTART:20260626T000000Z
 DTEND:20260626T020000Z
-SUMMARY:Japão vs Suécia
+SUMMARY:Japão x Suécia
 DESCRIPTION:🏆 Fase de Grupos - Grupo F
 ⚽ Japão vs Suécia
 📍 AT&T Stadium, Arlington - EUA
@@ -1035,7 +1035,7 @@ BEGIN:VEVENT
 UID:grupos_F_tun_ned_20260625@fifa2026
 DTSTART:20260626T000000Z
 DTEND:20260626T020000Z
-SUMMARY:Tunísia vs Países Baixos
+SUMMARY:Tunísia x Países Baixos
 DESCRIPTION:🏆 Fase de Grupos - Grupo F
 ⚽ Tunísia vs Países Baixos
 📍 Arrowhead Stadium, Kansas City - EUA
@@ -1053,7 +1053,7 @@ BEGIN:VEVENT
 UID:grupos_D_tur_usa_20260625@fifa2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:Turquia vs Estados Unidos
+SUMMARY:Turquia x Estados Unidos
 DESCRIPTION:🏆 Fase de Grupos - Grupo D
 ⚽ Turquia vs Estados Unidos
 📍 SoFi Stadium, Los Angeles - EUA
@@ -1071,7 +1071,7 @@ BEGIN:VEVENT
 UID:grupos_D_par_aus_20260625@fifa2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:Paraguai vs Austrália
+SUMMARY:Paraguai x Austrália
 DESCRIPTION:🏆 Fase de Grupos - Grupo D
 ⚽ Paraguai vs Austrália
 📍 Levi's Stadium, Santa Clara - EUA
@@ -1089,7 +1089,7 @@ BEGIN:VEVENT
 UID:grupos_I_nor_fra_20260626@fifa2026
 DTSTART:20260626T210000Z
 DTEND:20260626T230000Z
-SUMMARY:Noruega vs França
+SUMMARY:Noruega x França
 DESCRIPTION:🏆 Fase de Grupos - Grupo I
 ⚽ Noruega vs França
 📍 Gillette Stadium, Foxborough - EUA
@@ -1107,7 +1107,7 @@ BEGIN:VEVENT
 UID:grupos_I_sen_irq_20260626@fifa2026
 DTSTART:20260626T210000Z
 DTEND:20260626T230000Z
-SUMMARY:Senegal vs Iraque
+SUMMARY:Senegal x Iraque
 DESCRIPTION:🏆 Fase de Grupos - Grupo I
 ⚽ Senegal vs Iraque
 📍 BMO Field, Toronto - Canadá
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 UID:grupos_H_cpv_ksa_20260626@fifa2026
 DTSTART:20260627T010000Z
 DTEND:20260627T030000Z
-SUMMARY:Cabo Verde vs Arábia Saudita
+SUMMARY:Cabo Verde x Arábia Saudita
 DESCRIPTION:🏆 Fase de Grupos - Grupo H
 ⚽ Cabo Verde vs Arábia Saudita
 📍 NRG Stadium, Houston - EUA
@@ -1143,7 +1143,7 @@ BEGIN:VEVENT
 UID:grupos_G_egy_irn_20260627@fifa2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:Egito vs Irã
+SUMMARY:Egito x Irã
 DESCRIPTION:🏆 Fase de Grupos - Grupo G
 ⚽ Egito vs Irã
 📍 Lumen Field, Seattle - EUA
@@ -1161,7 +1161,7 @@ BEGIN:VEVENT
 UID:grupos_G_nzl_bel_20260627@fifa2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:Nova Zelândia vs Bélgica
+SUMMARY:Nova Zelândia x Bélgica
 DESCRIPTION:🏆 Fase de Grupos - Grupo G
 ⚽ Nova Zelândia vs Bélgica
 📍 BC Place, Vancouver - Canadá
@@ -1179,7 +1179,7 @@ BEGIN:VEVENT
 UID:grupos_H_uru_esp_20260627@fifa2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:Uruguai vs Espanha
+SUMMARY:Uruguai x Espanha
 DESCRIPTION:🏆 Fase de Grupos - Grupo H
 ⚽ Uruguai vs Espanha
 📍 Estádio Akron, Guadalajara - México
@@ -1197,7 +1197,7 @@ BEGIN:VEVENT
 UID:grupos_L_pan_eng_20260627@fifa2026
 DTSTART:20260627T230000Z
 DTEND:20260628T010000Z
-SUMMARY:Panamá vs Inglaterra
+SUMMARY:Panamá x Inglaterra
 DESCRIPTION:🏆 Fase de Grupos - Grupo L
 ⚽ Panamá vs Inglaterra
 📍 MetLife Stadium, East Rutherford - EUA
@@ -1215,7 +1215,7 @@ BEGIN:VEVENT
 UID:grupos_L_cro_gha_20260627@fifa2026
 DTSTART:20260627T230000Z
 DTEND:20260628T010000Z
-SUMMARY:Croácia vs Gana
+SUMMARY:Croácia x Gana
 DESCRIPTION:🏆 Fase de Grupos - Grupo L
 ⚽ Croácia vs Gana
 📍 Lincoln Financial Field, Filadélfia - EUA
@@ -1233,7 +1233,7 @@ BEGIN:VEVENT
 UID:grupos_J_jor_arg_20260628@fifa2026
 DTSTART:20260628T030000Z
 DTEND:20260628T050000Z
-SUMMARY:Jordânia vs Argentina
+SUMMARY:Jordânia x Argentina
 DESCRIPTION:🏆 Fase de Grupos - Grupo J
 ⚽ Jordânia vs Argentina
 📍 AT&T Stadium, Arlington - EUA
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 UID:grupos_J_alg_aut_20260628@fifa2026
 DTSTART:20260628T030000Z
 DTEND:20260628T050000Z
-SUMMARY:Argélia vs Áustria
+SUMMARY:Argélia x Áustria
 DESCRIPTION:🏆 Fase de Grupos - Grupo J
 ⚽ Argélia vs Áustria
 📍 Arrowhead Stadium, Kansas City - EUA
@@ -1269,7 +1269,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_a2_b2_20260628@fifa2026
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-SUMMARY:2º Grupo A vs 2º Grupo B
+SUMMARY:2º Grupo A x 2º Grupo B
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 2º Grupo A vs 2º Grupo B
 📍 SoFi Stadium, Los Angeles - EUA
@@ -1287,7 +1287,7 @@ BEGIN:VEVENT
 UID:grupos_K_col_por_20260628@fifa2026
 DTSTART:20260629T013000Z
 DTEND:20260629T033000Z
-SUMMARY:Colômbia vs Portugal
+SUMMARY:Colômbia x Portugal
 DESCRIPTION:🏆 Fase de Grupos - Grupo K
 ⚽ Colômbia vs Portugal
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -1305,7 +1305,7 @@ BEGIN:VEVENT
 UID:grupos_K_cod_uzb_20260628@fifa2026
 DTSTART:20260629T013000Z
 DTEND:20260629T033000Z
-SUMMARY:RD Congo vs Uzbequistão
+SUMMARY:RD Congo x Uzbequistão
 DESCRIPTION:🏆 Fase de Grupos - Grupo K
 ⚽ RD Congo vs Uzbequistão
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -1323,7 +1323,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_c1_f2_20260629@fifa2026
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-SUMMARY:1º Grupo C vs 2º Grupo F
+SUMMARY:1º Grupo C x 2º Grupo F
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo C vs 2º Grupo F
 📍 NRG Stadium, Houston - EUA
@@ -1341,7 +1341,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_e1_3_20260629@fifa2026
 DTSTART:20260629T223000Z
 DTEND:20260630T003000Z
-SUMMARY:1º Grupo E vs 3º Grupo A/B/C/D/F
+SUMMARY:1º Grupo E x 3º Grupo A/B/C/D/F
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo E vs 3º Grupo A/B/C/D/F
 📍 Gillette Stadium, Foxborough - EUA
@@ -1359,7 +1359,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_f1_c2_20260630@fifa2026
 DTSTART:20260630T030000Z
 DTEND:20260630T050000Z
-SUMMARY:1º Grupo F vs 2º Grupo C
+SUMMARY:1º Grupo F x 2º Grupo C
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo F vs 2º Grupo C
 📍 Estádio BBVA, Monterrey - México
@@ -1377,7 +1377,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_e2_i2_20260630@fifa2026
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SUMMARY:2º Grupo E vs 2º Grupo I
+SUMMARY:2º Grupo E x 2º Grupo I
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 2º Grupo E vs 2º Grupo I
 📍 AT&T Stadium, Arlington - EUA
@@ -1395,7 +1395,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_i1_3_20260630@fifa2026
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-SUMMARY:1º Grupo I vs 3º Grupo C/D/F/G/H
+SUMMARY:1º Grupo I x 3º Grupo C/D/F/G/H
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo I vs 3º Grupo C/D/F/G/H
 📍 MetLife Stadium, East Rutherford - EUA
@@ -1413,7 +1413,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_a1_3_20260701@fifa2026
 DTSTART:20260701T030000Z
 DTEND:20260701T050000Z
-SUMMARY:1º Grupo A vs 3º Grupo C/E/F/H/I
+SUMMARY:1º Grupo A x 3º Grupo C/E/F/H/I
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo A vs 3º Grupo C/E/F/H/I
 📍 Estádio Azteca, Cidade do México - México
@@ -1431,7 +1431,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_l1_3_20260701@fifa2026
 DTSTART:20260701T180000Z
 DTEND:20260701T200000Z
-SUMMARY:1º Grupo L vs 3º Grupo E/H/I/J/K
+SUMMARY:1º Grupo L x 3º Grupo E/H/I/J/K
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo L vs 3º Grupo E/H/I/J/K
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -1449,7 +1449,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_g1_3_20260701@fifa2026
 DTSTART:20260701T220000Z
 DTEND:20260702T000000Z
-SUMMARY:1º Grupo G vs 3º Grupo A/E/H/I/J
+SUMMARY:1º Grupo G x 3º Grupo A/E/H/I/J
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo G vs 3º Grupo A/E/H/I/J
 📍 Lumen Field, Seattle - EUA
@@ -1467,7 +1467,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_d1_3_20260702@fifa2026
 DTSTART:20260702T030000Z
 DTEND:20260702T050000Z
-SUMMARY:1º Grupo D vs 3º Grupo B/E/F/I/J
+SUMMARY:1º Grupo D x 3º Grupo B/E/F/I/J
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo D vs 3º Grupo B/E/F/I/J
 📍 Levi's Stadium, Santa Clara - EUA
@@ -1485,7 +1485,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_h1_j2_20260702@fifa2026
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SUMMARY:1º Grupo H vs 2º Grupo J
+SUMMARY:1º Grupo H x 2º Grupo J
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo H vs 2º Grupo J
 📍 SoFi Stadium, Los Angeles - EUA
@@ -1503,7 +1503,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_k2_l2_20260702@fifa2026
 DTSTART:20260703T020000Z
 DTEND:20260703T040000Z
-SUMMARY:2º Grupo K vs 2º Grupo L
+SUMMARY:2º Grupo K x 2º Grupo L
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 2º Grupo K vs 2º Grupo L
 📍 BMO Field, Toronto - Canadá
@@ -1521,7 +1521,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_b1_3_20260703@fifa2026
 DTSTART:20260703T050000Z
 DTEND:20260703T070000Z
-SUMMARY:1º Grupo B vs 3º Grupo E/F/G/I/J
+SUMMARY:1º Grupo B x 3º Grupo E/F/G/I/J
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo B vs 3º Grupo E/F/G/I/J
 📍 BC Place, Vancouver - Canadá
@@ -1539,7 +1539,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_d2_g2_20260703@fifa2026
 DTSTART:20260703T200000Z
 DTEND:20260703T220000Z
-SUMMARY:2º Grupo D vs 2º Grupo G
+SUMMARY:2º Grupo D x 2º Grupo G
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 2º Grupo D vs 2º Grupo G
 📍 AT&T Stadium, Arlington - EUA
@@ -1557,7 +1557,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_j1_h2_20260703@fifa2026
 DTSTART:20260704T000000Z
 DTEND:20260704T020000Z
-SUMMARY:1º Grupo J vs 2º Grupo H
+SUMMARY:1º Grupo J x 2º Grupo H
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo J vs 2º Grupo H
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -1575,7 +1575,7 @@ BEGIN:VEVENT
 UID:mata_mata_32_k1_3_20260704@fifa2026
 DTSTART:20260704T033000Z
 DTEND:20260704T053000Z
-SUMMARY:1º Grupo K vs 3º Grupo D/E/I/J/L
+SUMMARY:1º Grupo K x 3º Grupo D/E/I/J/L
 DESCRIPTION:🏆 Dezesseis Avos
 ⚽ 1º Grupo K vs 3º Grupo D/E/I/J/L
 📍 Arrowhead Stadium, Kansas City - EUA
@@ -1593,7 +1593,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_73_74_20260704@fifa2026
 DTSTART:20260704T180000Z
 DTEND:20260704T200000Z
-SUMMARY:Venc. Jogo 73 vs Venc. Jogo 74
+SUMMARY:Venc. Jogo 73 x Venc. Jogo 74
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 73 vs Venc. Jogo 74
 📍 NRG Stadium, Houston - EUA
@@ -1611,7 +1611,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_75_76_20260704@fifa2026
 DTSTART:20260704T220000Z
 DTEND:20260705T000000Z
-SUMMARY:Venc. Jogo 75 vs Venc. Jogo 76
+SUMMARY:Venc. Jogo 75 x Venc. Jogo 76
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 75 vs Venc. Jogo 76
 📍 Lincoln Financial Field, Filadélfia - EUA
@@ -1629,7 +1629,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_77_78_20260705@fifa2026
 DTSTART:20260705T220000Z
 DTEND:20260706T000000Z
-SUMMARY:Venc. Jogo 77 vs Venc. Jogo 78
+SUMMARY:Venc. Jogo 77 x Venc. Jogo 78
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 77 vs Venc. Jogo 78
 📍 MetLife Stadium, East Rutherford - EUA
@@ -1647,7 +1647,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_79_80_20260706@fifa2026
 DTSTART:20260706T030000Z
 DTEND:20260706T050000Z
-SUMMARY:Venc. Jogo 79 vs Venc. Jogo 80
+SUMMARY:Venc. Jogo 79 x Venc. Jogo 80
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 79 vs Venc. Jogo 80
 📍 Estádio Azteca, Cidade do México - México
@@ -1665,7 +1665,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_81_82_20260706@fifa2026
 DTSTART:20260706T210000Z
 DTEND:20260706T230000Z
-SUMMARY:Venc. Jogo 81 vs Venc. Jogo 82
+SUMMARY:Venc. Jogo 81 x Venc. Jogo 82
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 81 vs Venc. Jogo 82
 📍 AT&T Stadium, Arlington - EUA
@@ -1683,7 +1683,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_83_84_20260706@fifa2026
 DTSTART:20260707T020000Z
 DTEND:20260707T040000Z
-SUMMARY:Venc. Jogo 83 vs Venc. Jogo 84
+SUMMARY:Venc. Jogo 83 x Venc. Jogo 84
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 83 vs Venc. Jogo 84
 📍 Lumen Field, Seattle - EUA
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_85_86_20260707@fifa2026
 DTSTART:20260707T180000Z
 DTEND:20260707T200000Z
-SUMMARY:Venc. Jogo 85 vs Venc. Jogo 86
+SUMMARY:Venc. Jogo 85 x Venc. Jogo 86
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 85 vs Venc. Jogo 86
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -1719,7 +1719,7 @@ BEGIN:VEVENT
 UID:mata_mata_16_87_88_20260707@fifa2026
 DTSTART:20260707T220000Z
 DTEND:20260708T000000Z
-SUMMARY:Venc. Jogo 87 vs Venc. Jogo 88
+SUMMARY:Venc. Jogo 87 x Venc. Jogo 88
 DESCRIPTION:🏆 Oitavas
 ⚽ Venc. Jogo 87 vs Venc. Jogo 88
 📍 BC Place, Vancouver - Canadá
@@ -1737,7 +1737,7 @@ BEGIN:VEVENT
 UID:mata_mata_qf_89_90_20260709@fifa2026
 DTSTART:20260709T220000Z
 DTEND:20260710T000000Z
-SUMMARY:Venc. Jogo 89 vs Venc. Jogo 90
+SUMMARY:Venc. Jogo 89 x Venc. Jogo 90
 DESCRIPTION:🏆 Quartas
 ⚽ Venc. Jogo 89 vs Venc. Jogo 90
 📍 Gillette Stadium, Foxborough - EUA
@@ -1755,7 +1755,7 @@ BEGIN:VEVENT
 UID:mata_mata_qf_91_92_20260710@fifa2026
 DTSTART:20260710T210000Z
 DTEND:20260710T230000Z
-SUMMARY:Venc. Jogo 91 vs Venc. Jogo 92
+SUMMARY:Venc. Jogo 91 x Venc. Jogo 92
 DESCRIPTION:🏆 Quartas
 ⚽ Venc. Jogo 91 vs Venc. Jogo 92
 📍 SoFi Stadium, Los Angeles - EUA
@@ -1773,7 +1773,7 @@ BEGIN:VEVENT
 UID:mata_mata_qf_93_94_20260711@fifa2026
 DTSTART:20260711T230000Z
 DTEND:20260712T010000Z
-SUMMARY:Venc. Jogo 93 vs Venc. Jogo 94
+SUMMARY:Venc. Jogo 93 x Venc. Jogo 94
 DESCRIPTION:🏆 Quartas
 ⚽ Venc. Jogo 93 vs Venc. Jogo 94
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -1791,7 +1791,7 @@ BEGIN:VEVENT
 UID:mata_mata_qf_95_96_20260711@fifa2026
 DTSTART:20260712T030000Z
 DTEND:20260712T050000Z
-SUMMARY:Venc. Jogo 95 vs Venc. Jogo 96
+SUMMARY:Venc. Jogo 95 x Venc. Jogo 96
 DESCRIPTION:🏆 Quartas
 ⚽ Venc. Jogo 95 vs Venc. Jogo 96
 📍 Arrowhead Stadium, Kansas City - EUA
@@ -1809,7 +1809,7 @@ BEGIN:VEVENT
 UID:mata_mata_sf_97_98_20260714@fifa2026
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:Venc. Jogo 97 vs Venc. Jogo 98
+SUMMARY:Venc. Jogo 97 x Venc. Jogo 98
 DESCRIPTION:🏆 Semifinal
 ⚽ Venc. Jogo 97 vs Venc. Jogo 98
 📍 AT&T Stadium, Arlington - EUA
@@ -1827,7 +1827,7 @@ BEGIN:VEVENT
 UID:mata_mata_sf_99_100_20260715@fifa2026
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:Venc. Jogo 99 vs Venc. Jogo 100
+SUMMARY:Venc. Jogo 99 x Venc. Jogo 100
 DESCRIPTION:🏆 Semifinal
 ⚽ Venc. Jogo 99 vs Venc. Jogo 100
 📍 Mercedes-Benz Stadium, Atlanta - EUA
@@ -1845,7 +1845,7 @@ BEGIN:VEVENT
 UID:mata_mata_3p_101_102_20260718@fifa2026
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-SUMMARY:Perd. Jogo 101 vs Perd. Jogo 102
+SUMMARY:Perd. Jogo 101 x Perd. Jogo 102
 DESCRIPTION:🏆 Terceiro Lugar
 ⚽ Perd. Jogo 101 vs Perd. Jogo 102
 📍 Hard Rock Stadium, Miami Gardens - EUA
@@ -1863,7 +1863,7 @@ BEGIN:VEVENT
 UID:mata_mata_fin_101_102_20260719@fifa2026
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-SUMMARY:Venc. Jogo 101 vs Venc. Jogo 102
+SUMMARY:Venc. Jogo 101 x Venc. Jogo 102
 DESCRIPTION:🏆 Final
 ⚽ Venc. Jogo 101 vs Venc. Jogo 102
 📍 MetLife Stadium, East Rutherford - EUA
